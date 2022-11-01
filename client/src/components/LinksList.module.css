@@ -1,0 +1,14 @@
+.hotelinfo {
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+    padding: 20px;
+}
+
+.right img {
+    width: 100%;
+}
+
+.left {
+    width: 100%;
+}

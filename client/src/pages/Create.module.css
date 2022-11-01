@@ -1,0 +1,40 @@
+#carousel {
+    color: black !important;
+    width: 100% !important;
+    max-width: 1400px !important;
+    margin: 0 auto;
+}
+
+.ahref {
+    position: relative !important;
+}
+
+#carousel_item {
+    display: flex !important;
+    align-items: center !important;
+    flex-direction: column !important;
+}
+
+.info {
+    color: black !important;
+    width: 100% !important;
+}
+
+.img {
+    height: 100% !important;
+    width: auto !important;
+}
+
+#maincenter {
+    height: 80vh !important;
+    width: 70% !important;
+    margin: 0 auto !important;
+}
+
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    padding: 20px;
+}
